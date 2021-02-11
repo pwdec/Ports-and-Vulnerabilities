@@ -1,4 +1,4 @@
 # Ports-and-Vulnerabilities
+# Portlar ve Zafiyetleri
 
-https://www.youtube.com/playlist?list=PLolWu2T8ZB9I-ILYyenqovDPlx7PRZmeK
-[<img src="https://img.youtube.com/vi/<79sCg7wk5rI>/maxresdefault.jpg" width="50%">](https://youtu.be/<79sCg7wk5rI>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/79sCg7wk5rI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
