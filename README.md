@@ -2,4 +2,4 @@
 # Portlar ve Zafiyetleri [TR]
 
 
-https://media3.giphy.com/media/pcCOTPDtiquzR5LV0X/giphy.gif
+![Alt Text](https://www.youtube.com/watch?v=79sCg7wk5rI&feature=youtu.be)
